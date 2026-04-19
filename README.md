@@ -4,8 +4,8 @@
 **Module:** Assessment Deployment Readiness Checklist System
 **Team:** TEAM 3 – FINAL SYSTEM COMPLETION & PRODUCTION READINESS
 **Intern Name:** Durvesh Motilal Raysing
-**Role:** AI/ML Developer
-**Captain:** Shreeya Manwatkar
+**Role:** Python Developer
+**Captain:** Aas khan
 **Date:** April 19, 2026
 
 ---
